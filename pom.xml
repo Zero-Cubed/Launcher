@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zero3</groupId>
+    <artifactId>launcher</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <developers>
+        <developer>
+            <name>Christian Biskup</name>
+            <id>cbiskup</id>
+            <email>biskupchristian01@gmail.com</email>
+            <organization>Zero³</organization>
+            <url>http://kkirigaya.github.io</url>
+        </developer>
+    </developers>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.zero3</groupId>
+            <artifactId>capacity</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!--
+        <dependency>
+            <groupId>com.zero3.circuit</groupId>
+            <artifactId>circuit</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        -->
+        <!--
+        <dependency>
+            <groupId></groupId>
+            <artifactId></artifactId>
+            <version></version>
+        </dependency>
+        -->
+    </dependencies>
+
+</project>
